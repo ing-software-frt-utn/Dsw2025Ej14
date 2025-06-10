@@ -5,6 +5,12 @@
 ## Tareas
 Bifurcar (fork) el repositorio.
 
+INTER¿GRANTES 
+CHUMBA FERNANDO JAVIER 
+NAVARRO CAROLINA 
+
+COMISION 3K2
+
 Desarrollar una API Web basada en controladores en .NET, con las siguientes características:
 
 1. Nombre de la solución: __Dsw2025Ej14__
