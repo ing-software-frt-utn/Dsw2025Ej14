@@ -2,6 +2,14 @@
 {
     public class ProductsController
     {
+        
+
+
+        public void Get() {
+        
+        
+        }
+
 
 
 
