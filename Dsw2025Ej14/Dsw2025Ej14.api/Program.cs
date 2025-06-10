@@ -1,4 +1,6 @@
 
+using Dsw2025Ej14.Api.Data;
+
 namespace Dsw2025Ej14.api
 {
     public class Program
@@ -13,6 +15,8 @@ namespace Dsw2025Ej14.api
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+            builder.Services.AddSingleton<PersistenciaEnMemoria>();
+
 
             var app = builder.Build();
 
@@ -29,6 +33,8 @@ namespace Dsw2025Ej14.api
 
 
             app.MapControllers();
+
+            app.MapGet("/health-check", () => Results.Ok("OK"));
 
             app.Run();
         }
