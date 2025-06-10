@@ -2,6 +2,10 @@
 ## Desarrollo de Software
 ### API Web
 
+## Alumno
+
+### Lopez Asis Juan Manuel
+
 ## Tareas
 Bifurcar (fork) el repositorio.
 
