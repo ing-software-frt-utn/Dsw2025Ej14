@@ -1,0 +1,8 @@
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.csproj.AssemblyReference.cache
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.AssemblyInfoInputs.cache
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.AssemblyInfo.cs
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.csproj.CoreCompileInputs.cache
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\3kj1\Dsw2025Ej14\Dsw2025Ej14.Api\obj\Debug\net8.0\Dsw2025Ej14.Api.sourcelink.json
