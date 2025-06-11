@@ -1,0 +1,20 @@
+[
+  {
+    "Sku": "P001",
+    "Name": "Producto A",
+    "CurrentUnitPrice": 100.0,
+    "IsActive": true
+  },
+  {
+    "Sku": "P002",
+    "Name": "Producto B",
+    "CurrentUnitPrice": 200.0,
+    "IsActive": false
+  },
+  {
+    "Sku": "P003",
+    "Name": "Producto C",
+    "CurrentUnitPrice": 300.0,
+    "IsActive": true
+  }
+]
